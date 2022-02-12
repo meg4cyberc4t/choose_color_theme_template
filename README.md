@@ -6,6 +6,22 @@
  ```
  the name of the desired ThemeData.
  
+ ### For using as template
+ - Click on the repository page "Use this template"
+ - Cloning our new repository
+ - Changing pubspec.yaml
+ ```yaml
+ name: YourTitle
+ description: YourDescriptionIfExists
+ version: 1.0.0+1
+ ```
+  - Changing /android/build.gradle
+```gradle
+ defaultConfig {
+        //  Your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        applicationId "com.example.id"
+```
+ 
  ### Screenshots
  
  ##### classicDarkThemeData
