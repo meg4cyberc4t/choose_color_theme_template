@@ -15,7 +15,7 @@
  description: YourDescriptionIfExists
  version: 1.0.0+1
  ```
-  - Changing /android/build.gradle
+  - Changing /android/app/build.gradle
 ```gradle
  defaultConfig {
         //  Your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
