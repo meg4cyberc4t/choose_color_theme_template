@@ -50,3 +50,8 @@
   <img src="https://user-images.githubusercontent.com/66907532/153717292-3d07634b-32a3-4978-8063-77947472fdf7.png" style="height: 400px;">
 </div>
 
+## If you liked it or even used it
+**Please put an star or make a fork to your profile** ❤️
+
+## For developers or kind people
+You can make Issue, pull requests, offer your widgets. I am ready for any change to this repository for the better.
